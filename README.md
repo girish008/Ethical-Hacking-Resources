@@ -15,7 +15,7 @@ Here you can find the most useful resources ever for practical knowledge on Ethi
 11. Pentest Compilation = https://lnkd.in/gV2PWnx
 12. Infosec Reference = https://lnkd.in/g6DKZiC
 
-#Learning Platforms
+##Learning Platforms
 
 [Hack.me](https://hack.me/) | Lets you build/host/attack vulnerable web apps.....
 [CTFLearn](https://ctflearn.com/) | An account-based ctf site, where users can go in and solve a range of challenges......
@@ -68,13 +68,13 @@ Vulnerability Databases are the first place to start your day as a security prof
 * http://zerodayinitiative.com/advisories/published/
 * http://nmrc.org/pub/index.html
 
-### Malware Analysis
+## Malware Analysis
 
 [Malware traffic analysis](http://www.malware-traffic-analysis.net/) | list of traffic analysis exercises
 [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md) | another class from the folks at RPISEC, quality content
 [Bad Binaries] (https://www.badbinaries.com/) | walkthrough documents of malware traffic analysis exercises and some occasional malware analysis.
 
-### Linux Penetration Testing OS
+## Linux Penetration Testing OS
 
 [Kali](http://kali.org/) | the infamous pentesting distro from the folks at Offensive Security
 
@@ -113,7 +113,7 @@ Now let’s get Towards YouTube Channel Links... These Channels are Shared By Ha
 21. [Hussnain Fareed](https://www.youtube.com/channel/UCbq5fgcqUz-PlMs3RCOUrXw)
 22. [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
 
-### Forums
+## Forums
 
 [0x00sec](https://0x00sec.org/) | hacker, malware, computer engineering, Reverse engineering
 [Antichat](https://forum.antichat.ru/) | russian based forum
